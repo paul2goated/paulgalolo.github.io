@@ -1,1 +1,24 @@
+h3 {
+    width: auto;
+    color: yellow;
+    height: auto;
+    background-color: navy;
+    text-align: center;
+}
 
+h1 {
+    color: green;
+    text-align: center;
+}
+
+p {
+    color: yellow;
+    background-color: navy;
+
+
+}
+img {
+    border: solid 5px;
+    height:400px;
+    ;
+}
